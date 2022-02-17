@@ -12,4 +12,33 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 751792dbae6df4e04bfc4644a53eddda, type: 3}
   m_Name: Color
   m_EditorClassIdentifier: 
-  planetColor: {r: 1, g: 0.049433887, b: 0, a: 0}
+  gradient:
+    serializedVersion: 2
+    key0: {r: 0.042452812, g: 0.298845, b: 1, a: 1}
+    key1: {r: 0.023362402, g: 0.5430968, b: 0.990566, a: 1}
+    key2: {r: 0.9433962, g: 0.8845908, b: 0.4761481, a: 0}
+    key3: {r: 0.45381662, g: 0.8584906, b: 0.34420612, a: 0}
+    key4: {r: 0.30320513, g: 0.5377358, b: 0.27140442, a: 0}
+    key5: {r: 0.7075472, g: 0.41643724, b: 0.19691172, a: 0}
+    key6: {r: 0.71590304, g: 0.4331106, b: 0.21985728, a: 0}
+    key7: {r: 1, g: 1, b: 1, a: 0}
+    ctime0: 0
+    ctime1: 3277
+    ctime2: 8096
+    ctime3: 13107
+    ctime4: 22937
+    ctime5: 35852
+    ctime6: 51464
+    ctime7: 59174
+    atime0: 0
+    atime1: 65535
+    atime2: 0
+    atime3: 0
+    atime4: 0
+    atime5: 0
+    atime6: 0
+    atime7: 0
+    m_Mode: 0
+    m_NumColorKeys: 8
+    m_NumAlphaKeys: 2
+  planetMaterial: {fileID: 2100000, guid: 8d61f5b26df3e4a34a3b8ee7018d8b6e, type: 2}
