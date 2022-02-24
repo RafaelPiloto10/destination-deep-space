@@ -10,3 +10,5 @@ Current progress was made by following a [tutorial by Sebastian Lague](https://y
 ![world shaded](images/world_shaded.png)
 
 ![world wire frame](images/world_wire_frame.png)
+
+![Texture](images/gradient.png)
